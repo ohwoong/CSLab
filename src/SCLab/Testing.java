@@ -4,8 +4,8 @@ public class Testing {
   private String wifi_name;
   private int wifi_number;
   
-  class Testing(){};
-  class Testing(wifi_name, wifi_number);
+  public Testing(){};
+  public Testing(wifi_name, wifi_number);
   
   class void print()
   {
